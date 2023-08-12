@@ -17,7 +17,7 @@
 #code_box1 {
     width: 90%;
     margin: 30px auto;
-    height: 600px;
+    height: 500px;
 }
 
 legend {
@@ -52,7 +52,7 @@ legend {
     display: none;
     margin: 30px auto;
     width: 90%;
-    height: 600px;
+    height: 500px;
 }
 
 #return_btn {
